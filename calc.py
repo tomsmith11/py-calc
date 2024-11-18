@@ -1,5 +1,5 @@
 result_prev = 0
-operator = '+'
+operator = ''
 
 print('result_prev:', result_prev)
 
